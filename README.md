@@ -7,3 +7,5 @@ Aquí voy a agregar todos los apuntes que tengo de GNU/Linux, además de guías 
 - Distribuciones
 	- [ArchLinux](./Distribuciones/ArchLinux/ArchLinux.md)
 - [Recursos de Aprendizaje](./Recursos/Recursos%20de%20Aprendizaje.md)
+
+
