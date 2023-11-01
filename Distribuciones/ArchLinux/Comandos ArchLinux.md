@@ -19,7 +19,7 @@ sudo pacman -S neofetch cowsay lolcat
 Como ejemplo del uso de los paquetes, se obtiene la siguiente imagen.
 (Cabe mencionar que el Arch mostrado en la figura es a través de [Comandos Dockers y WSL > WSL](../../Dockers%20y%20WSL/Comandos%20Dockers%20y%20WSL.md#WSL) . 
 
-![WhatsApp Image 2023-10-31 at 10.03.46 PM](../../WhatsApp%20Image%202023-10-31%20at%2010.03.46%20PM.jpeg)
+![WhatsApp Image 2023-10-31 at 10.03.46 PM.jpeg](./WhatsApp%20Image%202023-10-31%20at%2010.03.46%20PM.jpeg)
 
 ## Actualizar sistema
 
