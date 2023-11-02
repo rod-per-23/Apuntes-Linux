@@ -26,7 +26,6 @@ https://www.youtube.com/watch?v=ZtqBQ68cfJc
 
 
 
-Volver al [README](../README.md)
 
 # Distros
 
@@ -35,3 +34,15 @@ https://www.parrotsec.org/
 
 Nix & NixOS | Reproducible builds and deployments
 https://nixos.org/
+
+
+# Git y GitHub
+
+Si bien Git y GitHub no tiene que ver con Linux, igual prefiero dejarlo aquí en vez de hacer otra página
+
+Git Tutorial For Dummies - YouTube
+https://www.youtube.com/watch?v=mJ-qvsxPHpY
+
+
+
+Volver al [README](../README.md)
