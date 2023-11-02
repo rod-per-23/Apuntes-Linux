@@ -27,3 +27,11 @@ https://www.youtube.com/watch?v=ZtqBQ68cfJc
 
 
 Volver al [README](../README.md)
+
+# Distros
+
+Parrot Security
+https://www.parrotsec.org/
+
+Nix & NixOS | Reproducible builds and deployments
+https://nixos.org/
