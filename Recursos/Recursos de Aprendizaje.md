@@ -4,15 +4,12 @@ Aquí van recursos de aprendizaje relacionados a Linux
 
 # Videos YouTube
 
+Arch Install and Hyprland setup - YouTube
+https://www.youtube.com/watch?v=lfUWwZqzHmA
 
 So you want to learn hyprland? LONG VERSION... install and m0re. - YouTube
 https://www.youtube.com/watch?v=iE99GrcZzhs&t=1927s
 
-NixOS Explained
-https://christitus.com/nixos-explained/
-
-NixOS - YouTube
-https://www.youtube.com/playlist?list=PLgVG4PNqM5SbjFzePr_YZJKafNf_ngbq3
 
 Make Windows Terminal look amazing! - YouTube
 https://www.youtube.com/watch?v=AK2JE2YsKto
@@ -25,15 +22,23 @@ https://www.youtube.com/watch?v=ZtqBQ68cfJc
 
 
 
-
-
 # Distros
+
+## Parrot
 
 Parrot Security
 https://www.parrotsec.org/
 
+## NixOS
+
 Nix & NixOS | Reproducible builds and deployments
 https://nixos.org/
+
+NixOS Explained
+https://christitus.com/nixos-explained/
+
+NixOS - YouTube
+https://www.youtube.com/playlist?list=PLgVG4PNqM5SbjFzePr_YZJKafNf_ngbq3
 
 
 # Git y GitHub
